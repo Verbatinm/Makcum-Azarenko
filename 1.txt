@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 123 jello
+=======
+123 good day
+>>>>>>> master2
